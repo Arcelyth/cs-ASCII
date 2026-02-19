@@ -1,6 +1,6 @@
 # cs-ASCII
 
-ASCII table written in obfuscated C code.
+ASCII table written in obfuscated C code. [csasc.c](./csasc.c)
 
 
 ```bash
